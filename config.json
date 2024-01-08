@@ -51,7 +51,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "cloudflare.cfgo.cc",
+            "address": "45.133.216.214",
             "port": 443,
             "users": [
               {
